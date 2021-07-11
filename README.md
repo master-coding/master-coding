@@ -21,10 +21,13 @@ You can click the Preview link to take a look at your changes.
 ---
 ## Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=master-coding">
-</a>
-<a href="https://github.com/master-coding?tab=followers"><img src="https://img.shields.io/github/followers/master-coding?label=Followers&style=social" alt="GitHub Badge"></a>
+![Profile views](https://komarev.com/ghpvc/?username=master-coding)
+
+
+![GitHub followers](https://img.shields.io/github/followers/master-coding?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/master-coding/master-coding?style=social)
+<!-- ![GitHub forks](https://img.shields.io/github/forks/master-coding/master-coding?style=social) -->
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/master-coding/master-coding?style=social) -->
 
 ---
 
