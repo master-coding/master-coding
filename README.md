@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h2 align = "center"> COMPETITIVE PROGRAMMER </h3>
+<h2 align = "center"> :computer: COMPETITIVE PROGRAMMER </h3>
 <h3 align = "center"> I have just started learning competitive programming <h3>
 
 ---
