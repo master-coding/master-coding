@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<h2 align = "center"> :computer: COMPETITIVE PROGRAMMER </h3>
-<h3 align = "center"> I have just started learning competitive programming <h3>
+<h2 align = "center"> :computer: SOFTWARE DEVELOPER <br> WEB DEVELOPER <br> and <br> COMPETITIVE PROGRAMMER </h3>
+<h3 align = "center"> I am not expert in any of these, but I am constantly learning and working hard to excel in these. <h3>
 
 ---
 ## Views and Followers
@@ -59,10 +59,9 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=master-coding&theme=dark)](https://git.io/streak-stats)
 ## Connect with ME:
 
-<p align="left">
-<a href="https://dev.to/@master-coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@master-coding" height="60" width="60" /></a>
-<a href="https://www.codechef.com/users/healer_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="healer_26" height="60" width="60" /></a>
+<p align="center">
 <a href="https://www.hackerrank.com/aaris_ahmed1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaris_ahmed1999" height="60" width="60" /></a>
 <a href="https://codeforces.com/profile/healer_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="healer_26" height="60" width="60" /></a>
-<a href="https://www.hackerearth.com/@aaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aaris" height="60" width="60" /></a>
+ <a href="https://www.codechef.com/users/healer_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="healer_26" height="60" width="60" /></a><a href="https://www.hackerearth.com/@aaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aaris" height="60" width="60" /></a>
+<a href="https://dev.to/@master-coding" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@master-coding" height="60" width="60" /></a>
 </p>
