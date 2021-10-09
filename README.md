@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align = "center"> I am not expert in any of these, but I am constantly learning and working hard to excel in these. <h3>
 
 ---
-## Views and Followers
+## 👁️ Views and Followers
 
 ![Profile views](https://komarev.com/ghpvc/?username=master-coding)
 
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 Languages and Tools:
 
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
+<p align="center"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
@@ -50,14 +50,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
 </p>
 
-## My Github Stats
+## 🏆 My Github Stats
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=master-coding&show_icons=true&locale=en&theme=react" alt="master-coding" /></p>
 
-## Streak
+## 🕶️ Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=master-coding&theme=dark)](https://git.io/streak-stats)
-## Connect with ME:
+## ☎️ Connect with ME:
 
 <p align="center">
 <a href="https://www.hackerrank.com/aaris_ahmed1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaris_ahmed1999" height="60" width="60" /></a>
