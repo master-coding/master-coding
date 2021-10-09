@@ -54,9 +54,9 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=master-coding&show_icons=true&locale=en&theme=react" alt="master-coding" /></p>
 
-## 🕶️ Streak
+<!-- ## 🕶️ Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=master-coding&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=master-coding&theme=dark)](https://git.io/streak-stats) -->
 ## ☎️ Connect with ME:
 
 <p align="center">
