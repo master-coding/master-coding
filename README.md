@@ -50,9 +50,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
 </p>
 
-<!-- ## 🏆 My Github Stats -->
+## 🏆 My Github Stats
 
-<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=master-coding&show_icons=true&locale=en&theme=react" alt="master-coding" /></p> -->
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=master-coding&show_icons=true&locale=en&theme=react" alt="master-coding" /></p>
 
 
  ## 🕶️ Streak
