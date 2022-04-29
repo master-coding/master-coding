@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @master-coding
 - 👀 I’m interested in python and c++ and web development
-- 🌱 I’m currently learning **DSA**  **Javascipt** and **web-development**.
+- 🌱 I’m currently learning **DSA**  **Software-Development** and **Web-Development**.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
