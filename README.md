@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 <h1 align = "center"> 👋 master-coder here </h1>
 
 - 👋 Hi, I’m @master-coder
-- 👀 I’m interested in **web development**
-- 🌱 I’m currently learning **DSA**  **Software-Development** and **Web-Development**.
+- 👀 I’m interested in **Web Development**
+- 🌱 I’m currently learning **DSA,**  **Software-Development** and **Web-Development**.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
