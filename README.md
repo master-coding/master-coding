@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <h2 align = "center"> :computer: SOFTWARE DEVELOPER <br> WEB DEVELOPER <br> and <br> COMPETITIVE PROGRAMMER </h3>
-<h3 align = "center"> Constantly learning and improving. <h3>
+<!-- <h3 align = "center"> Constantly learning and improving. <h3> -->
 
 ---
 ## 👁️ Views and Followers
